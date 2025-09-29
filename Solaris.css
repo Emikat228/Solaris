@@ -237,7 +237,7 @@ h3 {
 }
 
 .s-chat-message_timestamp /* Timestamps */ {
-	color: #0487FB !important;
+	color: #E6CB87 !important;
 }
 
 div#chatMessageContainer {
@@ -246,7 +246,7 @@ div#chatMessageContainer {
 }
 
 button#label_currentChannel /* Channel Button ie. Main, Sales */ {
-	background: #030826 !important;
+	background: #451602 !important;
         color: #E6CB87 !important;
 	border: none !important
 }
