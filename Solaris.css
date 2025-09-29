@@ -15,7 +15,7 @@ body {
 	background: url('https://i.ibb.co/XfjCwSTm/Solaris-Bg-2.png') center center fixed;
 	background-size: 100%;
 	font-family:  'Sour Gummy', sans-serif;
-	color: #E6CB87
+	color: #DBB451
 }
 
 /* MAIN PANEL */
@@ -219,19 +219,19 @@ h3 {
 /* CHAT */
 
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
-	background: rgba(0, 72, 164, 0.6) !important;
+	background: rgba(254, 144, 43, 0.6) !important;
         color: #E6CB87 !important;
 	border: 0 ridge !important;
 }
 
 .s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
-	background: rgba(5, 50, 118, 0.6) !important;
+	background: rgba(228, 106, 15, 0.6) !important;
         color: #E6CB87 !important;
 	border: none !important
 }
 
 .s-chat-message__pinned /* Pinned Message */ {
-	background: rgba(6, 24, 74, 0.6) !important;
+	background: rgba(209, 83, 2, 0.6) !important;
         color: #E6CB87 !important;
 	border: none !important
 }
