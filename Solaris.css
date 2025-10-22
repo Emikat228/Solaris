@@ -739,8 +739,8 @@ transform: scaleX(-1);
 a[href$="502407"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/1Y9QBwKX/Solaris-Middle-Cave.gif') !important
 }
-div.cave-grid>img[src$="caveunused.jpg"] {
-	content: url('https://i.ibb.co/1Y9QBwKX/Solaris-Middle-Cave.gif')!important;
+a[href$="505790"]>div.cave-grid>img {
+	content: url('https://i.ibb.co/1Y9QBwKX/Solaris-Middle-Cave.gif') !important
 transform: scaleX(-1);
 }
 /* da mounds */
